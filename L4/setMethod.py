@@ -1,0 +1,11 @@
+collection=set()
+collection.add(1)
+collection.add(2)
+collection.add(4)
+collection.add("seiam")
+collection.add((1,2,3,4))
+
+print(collection)
+print(len(collection))
+print(collection.pop())
+print(collection)

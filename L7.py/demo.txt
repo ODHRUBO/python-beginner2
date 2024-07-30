@@ -1,0 +1,4 @@
+learn python
+open folder
+use read write and append mode
+how we can append a file learn it just now

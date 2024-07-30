@@ -1,0 +1,12 @@
+student={
+    "name":"seiam",
+    "subject":{
+        "c":70,
+        "c++":80,
+        "java":90,
+        "python":95
+    }
+}
+#print(student)
+print(student["subject"])
+print(student["subject"]["java"])
